@@ -1,2 +1,2 @@
 # Readdy-Sahadhyayi
-REaddy code for Sahadhyayi
+Readdy code for Sahadhyayi
